@@ -1,0 +1,16 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.upload input[type="file"] {
+  margin-bottom: 10px;
+}
+
+.download {
+  display: none;
+}
+
+.download button {
+  margin-left: 10px;
+}
